@@ -20,6 +20,7 @@ bot.on('message', message=>{
     message.reply(`moi`);
 
     break;
+  }
 
 })
 
